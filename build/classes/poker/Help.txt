@@ -1,0 +1,42 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< INSTRUCTIONS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+                            Only Two cards are distributed for each player
+      The game consist of ten rounds and each round contains three stages which are FLOP, TURN and RIVER
+                            In those 3 stages 5 cards are shown to every player
+                          Three at once(FLOP), then another(TURN), then another(RIVER) 
+            In each round When it's your turn,you can make a choice to either discard your hand or keep it
+                   All players hands are shown at the show down at the end of each round
+        At the end of each round the winner will receive points according to the ranking of the hand
+                  If you gave up your cards before the showdown you'll receive 0 points
+         The winner of the game will be the player with the highest score at the end of all 10 rounds
+
+
+                                             RANK OF HANDS
+
+             High Card        -   Five unmatched cards,ranked first by the rank of its highest-ranking card
+             One Pair         -   Two cards of the same rank
+             Two Pair         -   Two cards of the same rank and two more cards of the same rank
+             Three Of A Kind  -   Three cards of the same rank
+             Straight         -   Any five cards consecutively ranked
+             Flush            -   Any Five cards of the same suit
+             Full House       -   Three cards of the same rank and two more cards of the same rank
+             Four Of A Kind   -   Four cards of the same rank
+             Straight Flush   -   Five cards of the same suit and consecutively ranked
+             Royal Flush      -   Five cards of the same suit, ranked ACE through TEN
+
+
+                      POINTS ACCORDING TO EACH PLAYER HAND
+
+                         High Card        -   1 point
+                         One Pair         -   2 points
+                         Two Pair         -   4 points
+                         Three Of A Kind  -   6 points
+                         Straight         -   8 points
+                         Flush            -  10 points
+                         Full House       -  12 points
+                         Four Of A Kind   -  15 points
+                         Straight Flush   -  20 points
+                         Royal Flush      -  30 points
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> GOOD LUCK AND ENJOY THE GAME!!! <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
